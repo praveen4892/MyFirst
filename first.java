@@ -3,7 +3,7 @@ public class First(){
      
 
 //written some code
-
+int i=10;
 
 
 }
